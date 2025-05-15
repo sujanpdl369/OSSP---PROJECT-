@@ -1,1 +1,1 @@
-# OSSP---PROJECT-
+# Arch Linux ossp-project
